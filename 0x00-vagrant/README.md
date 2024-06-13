@@ -1,0 +1,1 @@
+This directory contains the response to the question about the command uname.
